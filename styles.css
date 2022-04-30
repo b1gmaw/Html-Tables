@@ -15,13 +15,13 @@ p {
 }
 
 table{
-    margin: 100px 600px ;
+    margin: 100px auto ;
 }
 
 th,
 td {
     border : 1px solid #dddddd;
-    margin: 100px 600px;
+    margin: 100px auto;
     padding: 10px 30px;
 }
 
