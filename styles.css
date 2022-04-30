@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #12202a;
+    color: #dddddd;
+    
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
+
+table{
+    margin: 100px 600px ;
+}
+
+th,
+td {
+    border : 1px solid #dddddd;
+    margin: 100px 600px;
+    padding: 10px 30px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: left;
+}
+
+span {
+    font-family: monospace !important;
+}
+
+.myname {
+    font-family: cursive;
+    font-style: italic;
+    text-align: right;
+    margin-right: 70px;
+}
